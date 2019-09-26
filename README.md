@@ -1,4 +1,5 @@
-## Responsive-Web-Design-Certification-300-hours
+#FreeCodeCamp
+## Responsive Web Design Certification 300 hours
 
 
-FreeCodeCamp challenges answers
+* FreeCodeCamp challenges answers
